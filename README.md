@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hansi Kodamulla</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">An undergraduate in NSBM Green Univercity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kodamulla&label=Profile%20views&color=0e75b6&style=flat" alt="kodamulla" /> </p>
 
