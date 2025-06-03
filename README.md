@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Javascript**
 
 - ⚡ Fun fact **Call me as Kavi.**
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
+<img align="right" alt="Coding" width="200" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
  
 
 <h3 align="left">Connect with me:</h3>
