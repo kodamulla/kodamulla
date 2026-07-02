@@ -1,74 +1,62 @@
 <h1 align="center">Hi 👋, I'm Hansi Kodamulla</h1>
-<h3 align="center">Undergraduate | Full Stack Developer </h3>
+<h3 align="center">Undergraduate | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kodamulla&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=kodamulla&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 ---
 
 ### 👩‍💻 About Me
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Cute Girl Coding" />
+I am a passionate software developer from Sri Lanka 🇱🇰, dedicated to building highly scalable web applications, immersive 3D experiences, and decentralized Web3 solutions. I strongly believe in blending clean, efficient code with intuitive UI/UX design.
 
-- 🎓 Undergraduate at NSBM Green University  
-- 🌱 Currently learning **JavaScript & Next.js**  
-- 💻 Passionate about Web & Mobile Development  
-- 🔗 Exploring Blockchain & Web3  
- 
+- 🎓 **Education:** Undergraduate at NSBM Green University.
+- 💻 **Current Focus:** Advanced Full-Stack Development (Next.js, Node.js) and 3D Web Design (React Three Fiber).
+- 🔗 **Blockchain & Web3:** Developing robust DApps and Ethereum smart contracts using Solidity.
+- 💡 **Interests:** Cinematic AI media, UI/UX architecture, and modern software engineering.
+- 📫 **Contact Me:** hansikavithma25@gmail.com
 
 ---
 
 ### 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/hansikodamulla" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://facebook.com/hansikodamulla" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/kodamulla" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/hansikodamulla" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/hansikodamulla" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/kodamulla" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,nodejs,mongodb,mysql,firebase,php,java,solidity,figma&theme=dark&perline=8" alt="Tech Stack" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodamulla&layout=compact&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=kodamulla&show_icons=true&locale=en&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kodamulla&theme=tokyonight" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kodamulla&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodamulla&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kodamulla&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
-
 <p align="center">
-💜 Thanks for visiting my profile 💜
+  <i>Always eager to learn and build something amazing! ✨</i>
 </p>
