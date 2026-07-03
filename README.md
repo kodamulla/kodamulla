@@ -48,13 +48,18 @@ I am a passionate software developer from Sri Lanka 🇱🇰, dedicated to build
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kodamulla&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodamulla&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
-</div>
-<br/>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodamulla&layout=compact&theme=tokyonight" />
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kodamulla&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kodamulla&theme=tokyonight" />
+
+
+
 </div>
+
+
 
 ---
 <p align="center">
